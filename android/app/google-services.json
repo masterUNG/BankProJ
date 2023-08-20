@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "533784686844",
+    "project_id": "bankproj-2d8e9",
+    "storage_bucket": "bankproj-2d8e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533784686844:android:5095d411c19b3125aa2779",
+        "android_client_info": {
+          "package_name": "com.masterung.bankproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533784686844-i22phu54q1eroan7s2hqh2toueqj703c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masterung.bankproj",
+            "certificate_hash": "49c386dbb4b248e00e921054779d437f6f739feb"
+          }
+        },
+        {
+          "client_id": "533784686844-lanajeq48couv8lv48hm325td32f8uq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdEkqG9EmoZcGfhze0TZKK6ACdr2tVLwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533784686844-lanajeq48couv8lv48hm325td32f8uq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
